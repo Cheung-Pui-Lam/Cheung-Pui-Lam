@@ -1,10 +1,10 @@
 ## 前端码农 — *Playing*
-<img align="right" src="https://count.getloli.com/get/@:Cheung-Pui-Lam?theme=rule34">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheung-pui-lam" alt="cheung-pui-lam" /></a> </p>
+
+<img align="right" alt="GIF" src="./imgs/code.gif" width="300" height="200" /> 
 
 ### 个人站点：  **[肥林の仓库](https://cheung-pui-lam.github.io/)**
 
- <img align="right" alt="GIF" src="./imgs/code.gif" width="430" height="100%" /> 
 
 ### 会使的工具:
 
