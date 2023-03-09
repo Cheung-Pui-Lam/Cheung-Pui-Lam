@@ -1,7 +1,7 @@
 ## <p>前端码农 -- *Playing*[肥林]
   Focus on the present and live in the moment !
 ## **个人博客：**
-   <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="./imgs/code.gif" width="430" height="100%" />
   [肥林の仓库](https://cheung-pui-lam.github.io/)
   
 
