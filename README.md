@@ -2,7 +2,7 @@
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheung-pui-lam" alt="cheung-pui-lam" /></a> </p>
 
-<img align="right" alt="GIF" src="./imgs/code.gif" width="300" height="200" /> 
+<img align="right" alt="GIF" src="./imgs/code.gif" width="350" height="240" /> 
 
 ### 个人站点：  **[肥林の仓库](https://cheung-pui-lam.github.io/)**
 
