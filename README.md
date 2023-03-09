@@ -1,4 +1,13 @@
-### Hi there 👋
+## <p>前端码农 -- *Playing*[肥林]
+  Focus on the present and live in the moment !
+## **个人博客：**
+  [肥林の仓库](https://cheung-pui-lam.github.io/)
+  
+
+## **github活跃度**  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheung-Pui-Lam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheung-Pui-Lam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cheung-Pui-Lam/Cheung-Pui-Lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
