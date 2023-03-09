@@ -1,4 +1,5 @@
 ## 前端码农 — *Playing*
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheung-pui-lam" alt="cheung-pui-lam" /></a> </p>
 
 <img align="right" alt="GIF" src="./imgs/code.gif" width="300" height="200" /> 
@@ -13,7 +14,9 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Cheung-Pui-Lam&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Cheung-Pui-Lam&show_icons=true&theme=tokyonight)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Cheung-Pui-Lam&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheung-Pui-Lam&layout=compact&langs_count=6&theme=tokyonight)
+
+
 
 
 <!--
