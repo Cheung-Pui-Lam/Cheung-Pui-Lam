@@ -5,8 +5,8 @@
 
 <img align="right" alt="GIF" src="./imgs/code.gif" width="350" height="240" /> 
 
-##  🔗个人站点：  **[肥林の仓库](https://cheung-pui-lam.github.io/)**
-
+##  🔗个人站点：  
+- **[肥林の仓库](https://cheung-pui-lam.github.io/)**
 
 ##  🔧会使的工具:
 
