@@ -1,4 +1,5 @@
 # 🤖程序猿 — *Playing*
+- 目在当下，活在当下！努力成为自己想要成为的人...
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheung-pui-lam" alt="cheung-pui-lam" /></a> </p>
 
