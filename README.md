@@ -1,5 +1,4 @@
 # 🤖 程序猿 — *[Playing](https://cheung-pui-lam.github.io/)*  
-**A nobody trying to be a somebody !!**
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheung-pui-lam" alt="cheung-pui-lam" /></a> </p>
 
@@ -15,7 +14,8 @@
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Cheung-Pui-Lam&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheung-Pui-Lam&layout=compact&langs_count=6&theme=tokyonight&hide_progress=true)
 
 ## 🛳 &nbsp;Number of page views
-<img src="https://profile-counter.glitch.me/cheung-pui-lam/count.svg" />
+<img src="https://profile-counter.glitch.me/Cheung-Pui-Lam/count.svg" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=console.log(%22Hello%2C%20World%22);目在当下,活在当下!&size=30" alt="Typing SVG" />
 
 
 
